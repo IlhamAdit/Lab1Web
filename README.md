@@ -12,3 +12,7 @@ Jawaban
    
  TUGAS 
  Ini adalah proses pembuatan web 
+ ![lab1_tag_dasar html - Visual Studio Code 28_03_2021 19_52_16](https://user-images.githubusercontent.com/81283969/112754863-524f5100-9008-11eb-8e0e-01ac18ba153e.png)
+ 
+ Hasilnya
+ 
